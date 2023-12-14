@@ -1,11 +1,10 @@
-# Ayushi jain 
+# Hi there, I'm Ayushi Jain 👋
 
-<div style="text-align: right">
-    <img src="https://visitcount.itsvg.in/api?id=ayushijain-iuc&icon=0&color=1" alt="Visit Count" />
-</div>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=ayushijain-iuc&show_icons=true&theme=radical" />
 
-# 💫 About Me:
+<img align="left" style="height:180px" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushijain-iuc&layout=compact" />
 
-<img align = "right" alt ="coding" height="180" width ="350"  src = "Coding.gif">
+<img  align="left" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+<img align="left" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+<img align="left" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
 
-🔭 I’m currently working on learning new skills.<br>🤝 I’m looking for new job as fresher.<br>🌱 I’m currently learning Data Structure and Algorithms.<br>👯 I’m looking to develop an accurate Summarizer.<br>💬 Ask me about : How to get started
