@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ayushi Jain</h1>
 <h3 align="center">A passionate Software developer Engineer from India</h3>
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fsaamarketing.co.uk%2F2022%2F08%2F06%2Ftechnology-gif%2F&psig=AOvVaw0nmeYCXbZ0l7buOBQl3J_z&ust=1705579338542000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLjih6Ox5IMDFQAAAAAdAAAAABAh" width="450px" align="right" alt="">
+<img src="https://cdn.dribbble.com/users/2585799/screenshots/6555657/__2_3_____.gif" width="300" align="right" alt="">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushijain-iuc&label=Profile%20views&color=0e75b6&style=flat" alt="ayushijain-iuc" /> </p>
+
 - 🌱 I’m currently learning **Web Development**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/ayushi-jain-368557239/](https://www.linkedin.com/in/ayushi-jain-368557239/)
@@ -8,6 +10,8 @@
 - 💬 Ask me about **Python , Django, Flask , Mysql , Html**
 
 - 📫 How to reach me **ayushijain.jain12345@gmail.com**
+
+- ⚡ Fun fact **I am funny😊😊**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
